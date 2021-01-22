@@ -1,0 +1,6 @@
+framework module Pods_01_OpenGL______01_OpenGL_____UITests {
+  umbrella header "Pods-01 OpenGL 环境搭建-01 OpenGL 环境搭建UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
